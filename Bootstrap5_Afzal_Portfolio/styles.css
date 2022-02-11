@@ -1,0 +1,35 @@
+body {
+    background-color: #eeeaf1;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.navbar{
+    font-family: 'Permanent Marker', cursive;
+    color: #7e5699 !important;
+    border-radius: 0;
+    font-weight: 900;
+    font-size: 20px;
+}
+a {
+    color: #7e5699 !important;
+}
+#hero{
+    display: inline;
+}
+#projects{
+    display: inline;
+}
+.card{
+    border: 0;
+    border-radius: 2%;
+    box-shadow: 0 4px 8px 0 #a67ab8, 0 6px 20px 0 #ad84c9ce;
+    text-align: center;
+}
+#contact{
+    font-family: 'Permanent Marker', cursive;
+    background-color: #7e5699;
+    color: #ffffff !important;
+    border-radius: 0;
+    font-weight: 100;
+    font-size: 15px;
+    text-align: center;
+}
